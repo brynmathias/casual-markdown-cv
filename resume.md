@@ -4,7 +4,7 @@
   brynmathias@gmail.com <br> mobile: +44 7783161176 <br> Nationality: British
 </span>
 
-# Casualwriter  
+# brynmathias  
 
 ## Executive Summary
 
