@@ -20,9 +20,11 @@
 
 ### Faculty (Various Roles Currently Principal Engineer, 2019 - present) 
 
+During my time at faculty I have been responsabile for the delivery and technical work on a varity of consultancy projects which range from system builds to strategy, some highlights of projects are included below.
+
 * First client facing engineer
-  * Grew the team to approx 30 engineers before the team was re-orgainsed to business unit reporting lines
-  * Responsible for creating the engineering progression framework, and have grown several engineers from L1 to Lead
+  * Grew the customer facing engineering team to approx 30 engineers before the team was re-orgainsed to business unit reporting lines
+  * Responsible for creating the engineering progression framework, and have mentored and managed several engineers from L1 to Lead
 
 ### Noteable projects:
 #### NHS Covid response
