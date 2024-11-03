@@ -38,7 +38,7 @@ I was seconded along with our CTO to NHS HQ during covid, faculty lead the data 
 
 #### MOD StratCom
 The nature of this work means that I can't go into much detail however during my with them I have:
-    1. Deployed overseas to an operational theatre in support of ongoing counter terrorism operations
+    1. Deployed overseas to an operational theatre in support of counter-terrorism operations
     2. Been responsible for deploying applications to OFFICIAL-SECRET classification systems
     3. Been responsible for generating application deployment processes to OFFICIAL-SECRET systems
     4. Built along side analysts applications for data search and retrieval tailored to their specific needs
@@ -49,7 +49,7 @@ The nature of this work means that I can't go into much detail however during my
     9. Mentoring MOD staff
 
 #### Non project related work:
-  * Developed Faculty's engineering deployment principals
+  * Developed Faculty's engineering deployment principles
   * Developed Faculty's software sign off process for deployment into risky environments
   * Various business development and pitching contributing to securing millions of pounds worth of projects
   * Hiring, including at director level
@@ -65,17 +65,16 @@ The nature of this work means that I can't go into much detail however during my
 
 ### CoHeat (Software Engineer, Dec 2015 - July 2017) 
 * Second Technical hire
-* Migrated monolithic software application to micro services based application, using rest, GRPC and KAFKA
+* Migrated a monolithic software application to a microservices architecture, using rest, GRPC and KAFKA
 * Some hardware engineering, including reverse engineering of power line and wireless serial heat and water flow metres
 * DevOps and testing pipeline creation, hardware maintenance
 * Many other duties as it was an early stage startup
 
 ### Velocix (Software Engineer Dec 2013 - Dec 2015) 
-* Product design and research Evaluating high scale storage solutions, for cost efficiency, feature set and performance. Designed and implemented automated provisioning and roll out.
+* Product design and research, evaluating large (multi PB) scale storage solutions, for cost efficiency, feature set and performance. Designed and implemented automated provisioning and roll out of a ~2pb test cluster for storage and video serving applications
+* Systematic testing of the cluster in various hardware and software configurations
 * Joint research with Intel on the CEPH storage platform.
-Creating test plans and writing stories for the development of the project.
-
-
+* Creating test plans and writing stories for the development of the project.
 * Designing and running manual performance tests against the Velocix CDN and the Velocix Enhanced Video Origin.
 * Writing automated performance tests.
 * Debugging errors though the entire network chain, from end user to test hardware to the CDN appliances.
