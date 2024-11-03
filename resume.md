@@ -4,7 +4,7 @@
   brynmathias@gmail.com <br> mobile: +44 7783161176 <br> Nationality: British
 </span>
 
-# brynmathias  
+# Bryn Mathias 
 
 ## Executive Summary
 
@@ -16,15 +16,17 @@
 * PhD in High Energy Physics from Imperial College London, gained for my research at the Large Hadron Collider
 
 
-## Working Experience
+## Work Experience
 
-#### Faculty (Various Roles Currently Principal Engineer, 2019 - present) 
+### Faculty (Various Roles Currently Principal Engineer, 2019 - present) 
 
 * First client facing engineer
   * Grew the team to approx 30 engineers before the team was re-orgainsed to business unit reporting lines
   * Responsible for creating the engineering progression framework, and have grown several engineers from L1 to Lead
-* Noteable projects:
-  * NHS Covid response, I was seconded along with our CTO to NHS HQ during covid, faculty lead the data response to covid. Predicting disease trasmission at a national level. During this time I was responsible for:
+
+### Noteable projects:
+#### NHS Covid response
+I was seconded along with our CTO to NHS HQ during covid, faculty lead the data response to covid. Predicting disease trasmission at a national level. During this time I was responsible for:
     1. Designing the central data store for holding all covid information, and preserving patient privacy whilst enabling data analysis at a national scale
     2. Agent based modelling of disease trasmission, we worked with the oxford big data institute who were the team responsaible for suggesting the covid tracking app. They had generated an agent based model in C which was capable of simulating a few hundred thousand interactions, we scaled this to be able to simulate the entire country and ensure correct regional calibration in terms of the transmission rate and population categorisation as well as providing confidence limits in terms of the stocatistic nature of the agent based model and the initial conditions. This required creating a python interface for the C program, the ability to define experiements to run for a team of data scientists and creating a highly scalable (up to order 10k compute cores) cluster to perform these experiments in, in Azure.
     3. Leiasing with various govenment departments to collect relevant data, ensure data quality and data security.
@@ -32,8 +34,8 @@
     5. Scoping requirements of supporting systems
     6. Communicating results to senior stakeholders and preparing briefs to downing street
 
-  * MOD StratCom
-    * The nature of this work means that I can't go into much detail however during my with them I have:
+#### MOD StratCom
+The nature of this work means that I can't go into much detail however during my with them I have:
     1. Deployed overseas to an operational thetre in support of ongoing counter terrorism operations
     2. Been responsabile for deploying applications to OFFICAL-SECRET classifcation systems
     3. Been responsable for generating application deployment processes to OFFICAL-SECRET systems
@@ -44,7 +46,7 @@
     8. Managing the client relationship between Faculty and MOD
     9. Mentoring MOD staff
 
-* Non project related work:
+#### Non project related work:
   * Developed Faculty's engineering deployment principals
   * Developed Faculty's software sign off proccess for deployment into risky envrionments
   * Various business development and pitching contributing to securing millions of pounds worth of projects
@@ -77,13 +79,13 @@ Creating test plans and writing stories for the development of the project.
 * Debugging errors though the entire network chain, from end user to test hardware to the CDN appliances.
 
 
-
-## Projects: 
-
 ## Education & Qualifications
 
 * PhD High Energy Phsyics - Imperial College London 2009 - 2013
 * MSci Theoretical Phsycics - Royal Holloway University of London 2005 - 2009
+
+## Proficient Technologies:
+Python, AWS, Terraform, git, Linux, mac os, C, Kafak, REST, gRPC, PostGRESql
 
 ## Misc. Information
 
